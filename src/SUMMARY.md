@@ -1,5 +1,5 @@
 [Spiegazione Corso]()
-[Libri Suggeriti]()
+[Libri Suggeriti](./book.md)
 
 
 - [Introduzione]()
