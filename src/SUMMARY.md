@@ -1,4 +1,4 @@
-[Spiegazione Corso]()
+[Spiegazione Corso](../README.md)
 [Libri Suggeriti](./book.md)
 
 
