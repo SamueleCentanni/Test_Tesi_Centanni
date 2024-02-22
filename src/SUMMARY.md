@@ -37,7 +37,7 @@
   - [Thread della Piattaforma](./E9.1%20-%20Java%20Platform%20Threads.md)
   - [Thread Virtuali](./E9.2%20-%20Java%20Virtual%20Threads.md)
 
-- [Riflessione in Java](.)
+- [Riflessione in Java]()
   - [Java Reflection](./E10.1%20-%20Java%20Reflection.md)
 
 # Testo Esercizi
