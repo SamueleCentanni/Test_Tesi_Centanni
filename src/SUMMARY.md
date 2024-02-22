@@ -38,16 +38,16 @@
 - [Riflessione in Java](.)
   - [Java Reflection](./E10.1%20-%20Java%20Reflection.md)
 
-[Testo Esercizi]()
- - [Basics]()
- - [Arrays]()
- - [Strings]()
- - [OOP]()
- - [Collections]()
- - [Generics]()
- - [Functionals]()
- - [Exceptions]()
- - [NIO]()
- - [Threads]()
+# Testo Esercizi
+ - [WarmUp](./Esercizi/warmup.md)
+ - [Arrays](./Esercizi/arrays.md)
+ - [Strings](./Esercizi/strings.md)
+ - [OOP](./Esercizi/oop.md)
+ - [Collections](./Esercizi/collections.ms)
+ - [Generics](./Esercizi/generics.md)
+ - [Functionals](./Esercizi/functional.md)
+ - [Exceptions](./Esercizi/exceptions.md)
+ - [NIO](./Esercizi/nio.md)
+ - [Threads](./Esercizi/threads.md)
 
   
