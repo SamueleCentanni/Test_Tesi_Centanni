@@ -1,6 +1,4 @@
-<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
-<script>
 document.addEventListener("DOMContentLoaded", function(){
     mermaid.initialize({startOnLoad:true});
 });
-</script>
+
