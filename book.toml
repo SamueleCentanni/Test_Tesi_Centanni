@@ -14,4 +14,3 @@ command = "mdbook-mermaid"
 
 [output.html]
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
-additional-js = ["https://unpkg.com/mermaid/dist/mermaid.min.js", "path/to/your/mermaid-init.js"]
